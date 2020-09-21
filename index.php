@@ -10,7 +10,7 @@
             <form class="contactForm" action="contactForm.php" method="POST">
                 <input type="text" name="name" placeholder="Nom">
                 <input type="text" name="email" placeholder="Votre e-mail">
-                <input type="text" name="sujet" placeholder="Sujet">
+                <input type="text" name="subject" placeholder="Sujet">
                 <textarea name="message" placeholder="Message"></textarea>
                 <button type="submit" name="submit">Envoyer</button>
             </form>
